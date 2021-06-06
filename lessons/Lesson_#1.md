@@ -17,7 +17,7 @@ To check that you already have installed Rust and cargo:
 ```rustc --version && cargo --version```
 
 
-## Create a project
+### Create a project
 
 Create first project using cargo:
 
@@ -26,7 +26,7 @@ Create first project using cargo:
 where API-REST is the name of the project
 
 
-## First steps
+### First steps
 
 We should start calling the module will use, in this case we only need to std::net which is a standard library Rust and is sent to call two methods that are TCP Stream and TCP Listener:
 
